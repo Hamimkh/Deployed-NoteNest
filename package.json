@@ -1,0 +1,20 @@
+{
+  "name": "Deployed-NoteNest",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "npm run ./notenest",
+    "test": "echo \"No test specified\" && exit 1",
+    "start": "node ./backend/index.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamimkh/Deployed-NoteNest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamimkh/Deployed-NoteNest/issues"
+  },
+  "homepage": "https://github.com/Hamimkh/Deployed-NoteNest#readme"
+}
